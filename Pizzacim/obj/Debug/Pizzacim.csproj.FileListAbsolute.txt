@@ -1,0 +1,10 @@
+C:\Users\MONSTER\OneDrive\Masaüstü\görsel programlama\Pizzacim\Pizzacim\bin\Debug\Pizzacim.exe.config
+C:\Users\MONSTER\OneDrive\Masaüstü\görsel programlama\Pizzacim\Pizzacim\bin\Debug\Pizzacim.exe
+C:\Users\MONSTER\OneDrive\Masaüstü\görsel programlama\Pizzacim\Pizzacim\bin\Debug\Pizzacim.pdb
+C:\Users\MONSTER\OneDrive\Masaüstü\görsel programlama\Pizzacim\Pizzacim\obj\Debug\Pizzacim.csproj.AssemblyReference.cache
+C:\Users\MONSTER\OneDrive\Masaüstü\görsel programlama\Pizzacim\Pizzacim\obj\Debug\Pizzacim.Form1.resources
+C:\Users\MONSTER\OneDrive\Masaüstü\görsel programlama\Pizzacim\Pizzacim\obj\Debug\Pizzacim.Properties.Resources.resources
+C:\Users\MONSTER\OneDrive\Masaüstü\görsel programlama\Pizzacim\Pizzacim\obj\Debug\Pizzacim.csproj.GenerateResource.cache
+C:\Users\MONSTER\OneDrive\Masaüstü\görsel programlama\Pizzacim\Pizzacim\obj\Debug\Pizzacim.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\OneDrive\Masaüstü\görsel programlama\Pizzacim\Pizzacim\obj\Debug\Pizzacim.exe
+C:\Users\MONSTER\OneDrive\Masaüstü\görsel programlama\Pizzacim\Pizzacim\obj\Debug\Pizzacim.pdb
